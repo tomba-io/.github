@@ -1,7 +1,5 @@
 # Tomba.io
 
-![Tomba.io Logo](https://tomba.io/logo.svg)
-
 Welcome to the public README for Tomba.io! This document provides an overview of Tomba.io, its features, and how to get started with our services.
 
 ## Table of Contents
